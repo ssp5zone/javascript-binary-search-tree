@@ -1,10 +1,10 @@
  # JavaScript Binary Search Tree - 1
  
- A simple pure javascript [BST](https://en.wikipedia.org/wiki/Binary_search_tree) structure implimentation that uses updated-returns to add or remove items.
+ A simple, pure javascript [BST](https://en.wikipedia.org/wiki/Binary_search_tree) structure implimentation that uses updated-returns to add or remove items.
 
  ## USAGE
  ```javascript
- var tree = new BST(); // Initialize
+ var tree = new BST();     // Initialize
  tree.add(value);          // Add a new node
  tree.remove(value);       // Remove an existing node
  tree.print();             // Print the tree as a text-pyramid in console
